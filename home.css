@@ -6,6 +6,8 @@
 }
 .about2{
     text-align: center;
+    margin-left: 50px;
+    margin-right:50px
 }
 
 #header1{
@@ -32,6 +34,7 @@
 }
 .picture{
     padding-left: 250px;
+    
 }
 .para{
   margin-left: 200px;
